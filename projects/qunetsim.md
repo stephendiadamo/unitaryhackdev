@@ -25,6 +25,9 @@ bounties:
   - name: Implement an example of a second generation quantum repeater
     issue_num: 91
     value: 75
+  - name: Change the method name add_data_qubit to just add_qubit (bonus bounty)
+    issue_num: 136
+    value: 25
 
 ---
 A quantum network simulation framework.
